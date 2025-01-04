@@ -602,7 +602,6 @@ function! gutentags#toggletrace(...)
     else
         echom "gutentags: Tracing is disabled."
     endif
-    echom ""
 endfunction
 
 function! gutentags#fake(...)
